@@ -1,0 +1,309 @@
+/* ČOI Blacklist Extension - Warning Banner Styles */
+/* All classes prefixed with .pnn- to avoid conflicts */
+
+/* Reset and base styles - isolated from page */
+.pnn-banner,
+.pnn-banner *,
+.pnn-banner *::before,
+.pnn-banner *::after {
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+  line-height: 1.5 !important;
+  -webkit-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+}
+
+/* Main banner container */
+.pnn-banner {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 2147483647 !important;
+  background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%) !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25), 0 2px 8px rgba(0, 0, 0, 0.15) !important;
+  color: #ffffff !important;
+  font-size: 14px !important;
+  transform: translateY(0) !important;
+  animation: pnn-slideDown 0.3s ease-out !important;
+}
+
+.pnn-banner--bottom {
+  top: auto !important;
+  bottom: 0 !important;
+  animation: pnn-slideUp 0.3s ease-out !important;
+}
+
+@keyframes pnn-slideDown {
+  from {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pnn-slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Inner container */
+.pnn-container {
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 0 16px !important;
+}
+
+/* Main row - always visible */
+.pnn-main {
+  display: flex !important;
+  align-items: center !important;
+  gap: 12px !important;
+  padding: 12px 0 !important;
+  flex-wrap: nowrap !important;
+}
+
+/* Warning icon */
+.pnn-icon {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 36px !important;
+  height: 36px !important;
+  background: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 50% !important;
+  flex-shrink: 0 !important;
+}
+
+.pnn-icon svg {
+  width: 20px !important;
+  height: 20px !important;
+  fill: #ffffff !important;
+}
+
+/* Text content */
+.pnn-text {
+  flex: 1 !important;
+  min-width: 0 !important;
+  color: #ffffff !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+}
+
+.pnn-title {
+  font-weight: 600 !important;
+  font-size: 14px !important;
+  color: #ffffff !important;
+  display: inline !important;
+}
+
+.pnn-domain {
+  font-weight: 700 !important;
+  color: #fef08a !important;
+  word-break: break-all !important;
+}
+
+/* Action buttons container */
+.pnn-actions {
+  display: flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  flex-shrink: 0 !important;
+}
+
+/* Details toggle button */
+.pnn-details-btn {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  background: rgba(255, 255, 255, 0.15) !important;
+  color: #ffffff !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  padding: 8px 14px !important;
+  border-radius: 6px !important;
+  cursor: pointer !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  transition: all 0.2s ease !important;
+  white-space: nowrap !important;
+}
+
+.pnn-details-btn:hover {
+  background: rgba(255, 255, 255, 0.25) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.pnn-details-btn:focus {
+  outline: none !important;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.4) !important;
+}
+
+.pnn-details-btn svg {
+  width: 14px !important;
+  height: 14px !important;
+  fill: currentColor !important;
+  transition: transform 0.2s ease !important;
+}
+
+.pnn-details-btn[aria-expanded="true"] svg {
+  transform: rotate(180deg) !important;
+}
+
+/* Dismiss button */
+.pnn-dismiss-btn {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 32px !important;
+  height: 32px !important;
+  background: transparent !important;
+  border: none !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+  cursor: pointer !important;
+  border-radius: 6px !important;
+  transition: all 0.2s ease !important;
+}
+
+.pnn-dismiss-btn:hover {
+  background: rgba(255, 255, 255, 0.15) !important;
+  color: #ffffff !important;
+}
+
+.pnn-dismiss-btn:focus {
+  outline: none !important;
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.4) !important;
+}
+
+.pnn-dismiss-btn svg {
+  width: 18px !important;
+  height: 18px !important;
+  fill: currentColor !important;
+}
+
+/* Expandable details section */
+.pnn-details {
+  overflow: hidden !important;
+  max-height: 0 !important;
+  opacity: 0 !important;
+  transition: max-height 0.3s ease, opacity 0.2s ease, padding 0.3s ease !important;
+  border-top: 1px solid transparent !important;
+}
+
+.pnn-details[data-visible="true"] {
+  max-height: 300px !important;
+  opacity: 1 !important;
+  padding: 16px 0 !important;
+  border-top-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+.pnn-details-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)) !important;
+  gap: 16px !important;
+}
+
+.pnn-detail-item {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 4px !important;
+}
+
+.pnn-detail-label {
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.pnn-detail-value {
+  font-size: 13px !important;
+  color: #ffffff !important;
+  font-weight: 400 !important;
+}
+
+.pnn-detail-value--reason {
+  line-height: 1.6 !important;
+}
+
+/* Link to ČOI */
+.pnn-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+  color: #fef08a !important;
+  text-decoration: none !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  transition: all 0.2s ease !important;
+  margin-top: 8px !important;
+}
+
+.pnn-link:hover {
+  color: #ffffff !important;
+  text-decoration: underline !important;
+}
+
+.pnn-link svg {
+  width: 14px !important;
+  height: 14px !important;
+  fill: currentColor !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .pnn-main {
+    flex-wrap: wrap !important;
+    gap: 10px !important;
+  }
+
+  .pnn-icon {
+    width: 32px !important;
+    height: 32px !important;
+  }
+
+  .pnn-icon svg {
+    width: 18px !important;
+    height: 18px !important;
+  }
+
+  .pnn-text {
+    flex-basis: calc(100% - 44px) !important;
+    font-size: 13px !important;
+  }
+
+  .pnn-actions {
+    width: 100% !important;
+    justify-content: flex-end !important;
+    padding-top: 4px !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+    margin-top: 4px !important;
+  }
+
+  .pnn-details-btn {
+    flex: 1 !important;
+    justify-content: center !important;
+  }
+
+  .pnn-details-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Dark mode adjustments (if needed) */
+@media (prefers-color-scheme: dark) {
+  .pnn-banner {
+    background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%) !important;
+  }
+}

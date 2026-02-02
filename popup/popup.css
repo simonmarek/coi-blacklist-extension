@@ -1,0 +1,358 @@
+/* Popup styles - Modern UI matching banner design */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #1f2937;
+  background: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.popup {
+  width: 340px;
+  min-height: 200px;
+}
+
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 20px;
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: #ffffff;
+  transition: background 0.3s ease;
+}
+
+.header--danger {
+  background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+}
+
+.logo {
+  width: 36px;
+  height: 36px;
+  padding: 6px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+}
+
+.header h1 {
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.3px;
+}
+
+/* Main content */
+.main {
+  padding: 20px;
+}
+
+/* Status card */
+.status-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  transition: all 0.2s ease;
+}
+
+.status-card--loading {
+  background: #f3f4f6;
+  border: 1px solid #e5e7eb;
+}
+
+.status-card--safe {
+  background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+  border: 1px solid #a7f3d0;
+}
+
+.status-card--warning {
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  border: 1px solid #fecaca;
+}
+
+.status-card--disabled {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+}
+
+.status-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.status-card--loading .status-icon {
+  background: #e5e7eb;
+  color: #6b7280;
+}
+
+.status-card--safe .status-icon {
+  background: #10b981;
+  color: #ffffff;
+}
+
+.status-card--warning .status-icon {
+  background: #dc2626;
+  color: #ffffff;
+}
+
+.status-card--disabled .status-icon {
+  background: #9ca3af;
+  color: #ffffff;
+}
+
+.status-icon svg {
+  width: 22px;
+  height: 22px;
+  fill: currentColor;
+}
+
+.status-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.status-title {
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.status-card--safe .status-title {
+  color: #065f46;
+}
+
+.status-card--warning .status-title {
+  color: #991b1b;
+}
+
+.status-card--disabled .status-title {
+  color: #6b7280;
+}
+
+.status-domain {
+  font-size: 13px;
+  color: #6b7280;
+  word-break: break-all;
+  margin-bottom: 6px;
+}
+
+.status-reason {
+  font-size: 12px;
+  color: #4b5563;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Divider */
+.divider {
+  height: 1px;
+  background: #e5e7eb;
+  margin: 20px 0;
+}
+
+/* Controls section */
+.controls {
+  margin-bottom: 16px;
+}
+
+/* Toggle switch */
+.toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: #f9fafb;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.toggle:hover {
+  background: #f3f4f6;
+}
+
+.toggle-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #374151;
+}
+
+.toggle input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.toggle-switch {
+  position: relative;
+  width: 44px;
+  height: 24px;
+  background: #d1d5db;
+  border-radius: 24px;
+  transition: background 0.2s ease;
+}
+
+.toggle-switch::before {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  background: #ffffff;
+  border-radius: 50%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.toggle input:checked + .toggle-switch {
+  background: #10b981;
+}
+
+.toggle input:checked + .toggle-switch::before {
+  transform: translateX(20px);
+}
+
+.toggle input:focus + .toggle-switch {
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+}
+
+/* Update button */
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  padding: 12px 16px;
+  border: none;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.btn--primary {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: #ffffff;
+  box-shadow: 0 2px 4px rgba(245, 158, 11, 0.3);
+  transition: all 0.3s ease;
+}
+
+.btn--primary:hover:not(:disabled) {
+  box-shadow: 0 4px 8px rgba(245, 158, 11, 0.4);
+  transform: translateY(-1px);
+}
+
+.btn--danger-mode {
+  background: linear-gradient(135deg, #dc2626 0%, #b91c1c 100%);
+  box-shadow: 0 2px 4px rgba(220, 38, 38, 0.3);
+}
+
+.btn--danger-mode:hover:not(:disabled) {
+  box-shadow: 0 4px 8px rgba(220, 38, 38, 0.4);
+}
+
+.btn--primary:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.btn svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
+/* Spinning animation for refresh */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.btn--loading svg {
+  animation: spin 1s linear infinite;
+}
+
+/* Meta info */
+.meta {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid #e5e7eb;
+}
+
+.meta-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+}
+
+.meta-label {
+  color: #6b7280;
+}
+
+.meta-value {
+  color: #374151;
+  font-weight: 500;
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 20px;
+  background: #f9fafb;
+  border-top: 1px solid #e5e7eb;
+}
+
+.footer a {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #6b7280;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.footer a:hover {
+  color: #d97706;
+}
+
+.footer a svg {
+  width: 14px;
+  height: 14px;
+  fill: currentColor;
+}
