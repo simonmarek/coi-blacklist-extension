@@ -1,4 +1,4 @@
-# ČOI Blacklist Extension
+# ČOI Blacklist Extension (Pozor na ně!)
 
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?logo=googlechrome&logoColor=white)](https://chrome.google.com)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)](https://developer.chrome.com/docs/extensions/mv3/)

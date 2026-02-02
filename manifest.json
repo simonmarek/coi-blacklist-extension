@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Pozor na ně",
+  "name": "Pozor na ně!",
   "version": "1.0.0",
   "description": "Ochrana před podvodnými e-shopy. Varuje při návštěvě webů z oficiálního seznamu ČOI.",
   "content_security_policy": {
@@ -39,7 +39,7 @@
       "48": "icons/48.png",
       "128": "icons/128.png"
     },
-    "default_title": "Pozor na ně"
+    "default_title": "Pozor na ně!"
   },
   "options_page": "options/options.html"
 }
