@@ -28,6 +28,19 @@
   font-size: 14px !important;
   transform: translateY(0) !important;
   animation: pnn-slideDown 0.3s ease-out !important;
+  opacity: 1 !important;
+}
+
+/* Override any page styles that might affect our elements */
+.pnn-banner *:not(.pnn-details),
+.pnn-banner *::before,
+.pnn-banner *::after {
+  opacity: 1 !important;
+}
+
+.pnn-details[data-visible="true"],
+.pnn-details[data-visible="true"] * {
+  opacity: 1 !important;
 }
 
 .pnn-banner--bottom {
@@ -198,6 +211,7 @@
   opacity: 0 !important;
   transition: max-height 0.3s ease, opacity 0.2s ease, padding 0.3s ease !important;
   border-top: 1px solid transparent !important;
+  background: transparent !important;
 }
 
 .pnn-details[data-visible="true"] {
