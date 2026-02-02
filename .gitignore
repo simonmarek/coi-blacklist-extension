@@ -25,3 +25,7 @@ test-*.js
 # Temporary files
 tmp/
 temp/
+
+# Build output
+build/
+*.zip
