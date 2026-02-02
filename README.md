@@ -145,6 +145,14 @@ chrome.storage.local.set({
 
 Then visit `example.com` to see the warning banner.
 
+### Building for Chrome Web Store
+
+```bash
+./scripts/build.sh
+```
+
+This creates a clean `coi-blacklist-extension-v{version}.zip` with only extension files (no dev files). Upload this to the [Chrome Developer Dashboard](https://chrome.google.com/webstore/devconsole).
+
 ### Code Style
 
 - ES6+ JavaScript (const/let, async/await, arrow functions)
