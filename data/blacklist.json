@@ -1,11 +1,18 @@
 {
   "metadata": {
-    "lastUpdated": "2026-02-15T06:25:13.385Z",
+    "lastUpdated": "2026-02-16T06:33:25.088Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1148
+    "count": 1117
   },
   "domains": [
+    "sofieliberec.cz",
+    "arctiqo.cz",
+    "jana-zlin.cz",
+    "novaprahalabel.cz",
+    "siksilkcz.com",
+    "eu-notino.shop",
+    "dcczech.com",
     "stussyincz.top",
     "supershoppingvip.com",
     "fafasecond-hand888.shop",
@@ -1095,67 +1102,57 @@
     "levasan-maxx2.com",
     "b92eegumoc.store",
     "vova.com",
-    "webshoppingnets.com",
-    "vocalpast.com",
-    "cz.coolboxshop.com",
-    "denisablahova.cz",
-    "chonkyplushies.com",
-    "comclone.com",
-    "cz.eenergylb.com",
-    "cz.cannaprostnd.com",
-    "smartall.cz",
-    "inuivet.cz",
-    "cz.nicozerond.com",
-    "boostwot.com",
-    "tvarlitomysl.cz",
-    "veterinamnichovice.cz",
-    "lenkajuricova.cz",
-    "andreasmidova.cz",
-    "vsevakci.cz",
-    "cz.feizeripx.net",
-    "cz.parazitolnd.com",
-    "bezpupku.cz",
-    "lipox.cz",
     "cz4.ketodietnd.com",
-    "estersafranek.cz",
-    "eu.insidemarketdataevents.xyz",
-    "koronavirus.in",
-    "kafar.cz",
-    "cz.cleanvisionnd.com",
-    "cz6.immunity.canabis-oil.com",
-    "prodazhatovara.com",
     "cz2.cardimednd.com",
-    "boxerkyprotebe.cz",
-    "lunzo.cz",
     "centrum-cesta.cz",
     "doktrin.cz",
     "xxlobchod.com",
     "homegaden.com",
-    "luckydevil.xyz",
     "adnet99.com",
     "hot-shopping-review.com",
     "antikwariat.cz",
-    "cz.prostero-official.eu",
-    "unique-modules.com",
-    "time-for-investment.com",
     "muama-enence.net",
-    "snaponsmile.com",
     "lingfluent.com",
     "registr-dluzniku-k-nahlednuti-zdarma.cz",
     "cerd.cz",
     "centralniregistrdluzniku.cz",
     "tempotime.cz",
-    "official-fungonis.com",
-    "fastphrases.cz",
     "yourmarket24.com",
     "adapterynotebooku.cz",
     "cz.feizer.com",
     "securesmrt-dt.com",
     "lekarna-protebe.cz",
-    "hokejovedresy.com",
-    "zavlahy-cz.com"
+    "hokejovedresy.com"
   ],
   "details": {
+    "sofieliberec.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-16"
+    },
+    "arctiqo.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-13"
+    },
+    "jana-zlin.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-12"
+    },
+    "novaprahalabel.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-11"
+    },
+    "siksilkcz.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-11"
+    },
+    "eu-notino.shop": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-11"
+    },
+    "dcczech.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-11"
+    },
     "stussyincz.top": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-02-06"
@@ -5512,133 +5509,13 @@
       "reason": "Internetový obchod je provozován subjektem se sídlem mimo členské státy Evropské unie, ačkoliv internetový obchod může u spotřebitelů vzbuzovat dojem, že je provozován subjektem se sídlem v České republice nebo Evropské unii. Spotřebitelé nemohou uplatňovat svá práva, nebo je tato možnost významně ztížena. Stížnosti spotřebitelů ČOi obdržela ve smyslu vadného zboží, neumožnění odstoupit od smlouvy. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2020-06-26"
     },
-    "webshoppingnets.com": {
-      "reason": "Webové stránky mají dvě různé podoby. Přistoupit na stránky přímo znamená, že se uživateli nezobrazí nic. Příchodem přes reklamu se vytvoří speciální proklik (viz uvedený odkaz) a na stránkách je nabízen anonymní výrobek pro děti. Obchodní podmínky zcela chybí, další informace na stránkách jsou nedostatečné. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránk",
-      "dateAdded": "2020-06-24"
-    },
-    "vocalpast.com": {
-      "reason": "Webové stránky mají dvě různé podoby. Pokud přijdete z reklamy, pak vypadají stránky takto: https://www.coi.gov.cz/vocalpast/ a web se prezentuje jako jakýsi oficiální zdravotní portál, avšak nejde o žádný oficiální zdravotní portál. Na stránkách je pak nabízen pochybný výrobek s téměř zázračnými vlastnostmi. Fotka údajně spokojených zákazníků je stažena z fotobanky. Jakmile chcete opustit stránku, vyskočí \"varování\" a \"ještě lepší\" nabídka, která nutí spotřebitele k nákupu. Jakmile zadáte strán",
-      "dateAdded": "2020-06-19"
-    },
-    "cz.coolboxshop.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-18"
-    },
-    "denisablahova.cz": {
-      "reason": "Opuštěnou doménu koupil neznámý subjekt. Název domény neodpovídá nabízenému zboží, tím je především obuv. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-13"
-    },
-    "chonkyplushies.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-12"
-    },
-    "comclone.com": {
-      "reason": "Na uvedených stránkých lékař Vilém Rohn z Fakultní nemocnice v Motole v údajném rozhovoru popisuje účinky neznámého léku, který má řešit problémy s krevním tlakem. Součástí je i prodej propagovaného údajně až zázračného léku. Za lék se zaručuje v článku i FN Motol. Jedná se však o článek, který je vymyšlený - nemocnice i lékař se od něj distancují. Česká obchodní inspekce před těmito stránkami také varuje nejen z výše uvedených důvodů. Více zde: https://www.idnes.cz/zpravy/domaci/nemocnice-motol",
-      "dateAdded": "2020-06-11"
-    },
-    "cz.eenergylb.com": {
-      "reason": "Stránky odkazují formou článku na prodej zařízení na šetření spotřeby elektrické energie. Toto zařízení však energii nemůže ušetřit, ale naopak ji spotřebovává. Může se navíc jednat o nebezpečný výrobek. V roce 2012 byl do systému RAPEX nahlášen velmi podobný výrobek Power Factor Saver, výrobek představoval nebezpečí úrazu elektrickým proudem, protože napětí na kolících po odpojení výrobku ze zásuvky bylo příliš vysoké. Internetové stránky jsou provozovány zahraničními osobami, které figurují u ",
-      "dateAdded": "2020-06-10"
-    },
-    "cz.cannaprostnd.com": {
-      "reason": "Internetové stránky, na které se dostanete nejčastěji na základě spamů v elektronické poště, slibují neznámý konopný přípravek proti prostatě. Další informace na stránkách jsou zcela nedostatečné. Jako provozovatel je uvedena údajně firma, která figuruje u celé řady dalších rizikových webů. Na stránkách odbíhá odpočítávání času, aby spotřebitel byl tlačen k rozhodnutí a neměl čas o nákupu přemýšlet. Lékař, který přípravek na stránkách propaguje, je smyšlený a jeho fotografie stažena z fotobanky.",
-      "dateAdded": "2020-06-09"
-    },
-    "smartall.cz": {
-      "reason": "Na základě podání spotřebitelů zahájila Česká obchodní inspekce kontrolu v rámci svých dozorových pravomocí. Podnikatelský subjekt dle zaslaných podnětů od spotřebitelů neakceptuje odstoupení od kupní smlouvy, finanční částky za nedodané výrobky nevrací. Dle informací uvedených v podání je nekontaktní, nereaguje na e-maily. Na základě postoupení živnostenskému úřadu v Českém Těšíně bylo tímto zjištěno, že na stránkách uvedená fyzická osoba žádnou podnikatelskou činnost neprovozuje a jedná se o z",
-      "dateAdded": "2020-06-08"
-    },
-    "inuivet.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-07"
-    },
-    "cz.nicozerond.com": {
-      "reason": "Internetové stránky, na které se dostanete nejčastěji na základě spamů v elektronické poště, slibují zcela neznámý produkt na odvykání kouření. Obchodní podmínky zcela chybí, další informace na stránkách jsou nedostatečné. Jako provozovatel je uvedena společnost z Panamy, která figuruje u mnoha jiných rizikových e-shopů, které nabízejí celou řadu dalších neznámých výrobků např. na hubnutí, proti kouření, na prostatu, na klouby, srdeční hypertenzi a další. Informace na stránkách jsou smyšlené, a ",
-      "dateAdded": "2020-06-06"
-    },
-    "boostwot.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před zaplacením na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-05"
-    },
-    "tvarlitomysl.cz": {
-      "reason": "Opuštěnou doménu koupil neznámý subjekt. Název domény neodpovídá nabízenému zboží, tím je především obuv. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-04"
-    },
-    "veterinamnichovice.cz": {
-      "reason": "Opuštěnou doménu koupil neznámý subjekt. Název domény neodpovídá nabízenému zboží, tím je především oblečení a obuv. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-03"
-    },
-    "lenkajuricova.cz": {
-      "reason": "Opuštěnou doménu koupil neznámý subjekt. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-06-02"
-    },
-    "andreasmidova.cz": {
-      "reason": "Opuštěnou doménu koupil neznámý subjekt. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-05-24"
-    },
-    "vsevakci.cz": {
-      "reason": "Česká obchodní inspekce registruje vysoký počet stížností, které se internetových stránek týkají. Podle informací uvedených na internetových stránkách se má u části zboží jednat o zprostředkování nákupu od údajného externího prodávajícího z Číny. Identita tohoto údajného zahraničního prodávajícího však není spotřebiteli transparentně sdělena. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem u doda",
-      "dateAdded": "2020-05-23"
-    },
-    "cz.feizeripx.net": {
-      "reason": "Obsah obchodních podmínek hrubě odporuje právním předpisům. Web je anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-05-20"
-    },
-    "cz.parazitolnd.com": {
-      "reason": "Internetové stránky, na které se dostanete nejčastěji na základě spamů v elektronické poště, slibují zcela neznámý produkt proti parazitům. Obchodní podmínky zcela chybí. Spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-05-15"
-    },
-    "bezpupku.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-05-14"
-    },
-    "lipox.cz": {
-      "reason": "Jako provozovatel webu je uvedena v obchodních podmínkách firma TNA Technology s.r.o., IČO: 0812276 (viz obr: https://www.coi.gov.cz/wp-content/uploads/2020/05/lipox.png), avšak taková firma neexistuje. Spotřebitel tedy neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-05-09"
-    },
     "cz4.ketodietnd.com": {
       "reason": "Na základě smyšlených informací prezentován neznámý přípravek na zhubnutí. Dole je pak jakési kolo štěstí - spotřebitel si pokaždé \"vylosuje\" slevu 50% a poté má omezený čas k vyplnění objednávkového formuláře. Na stránkách je příběh ženy, která měla údajně zhubnout. Přípěh je smyšlený, stejně jako loterie na stránkách, kde zatočením kola si spotřebitel vždy vylosuje údajnou slevu 50%. Nákup zde za rizikový považuje Česká obchodní inspekce, stránky jsou anonymní a spotřebitel neví, s kým uzavírá",
       "dateAdded": "2020-05-03"
     },
-    "estersafranek.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-05-02"
-    },
-    "eu.insidemarketdataevents.xyz": {
-      "reason": "Varování před těmito stránkami obdržela Česká obchodní inspekce od společnosti Seznam.cz, kdy se zobrazila reklama s automatickým přesměrováním na stránku, která se tváří jako poskytovatel internetového připojení uživatele. Jde o podvodnou stránku, před kterou ČOI i Seznam.cz varují.",
-      "dateAdded": "2020-04-30"
-    },
-    "koronavirus.in": {
-      "reason": "Stránky jsou některé dny zcela nedostupné. V okamžiku, kdy dostupné jsou, jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva.  Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-04-28"
-    },
-    "kafar.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-04-25"
-    },
-    "cz.cleanvisionnd.com": {
-      "reason": "Internetové stránky, na které se dostanete nejčastěji na základě spamů v elektronické poště, slibují zcela neznámý produkt, který vám údajně vrátí zrak. Tento výrobek je zcela neznámý, má mít však až zázračné účinky. Obchodní podmínky zcela chybí, další informace na stránkách jsou nedostatečné. Jako provozovatel je uvedena společnost z Panamy. Na stránkách probíhá odpočítávání času, po který uvedená nabídka platí, avšak časomíra se vrací zpět, jde o nekalou obchodní praktiku a nátlak na spotřebi",
-      "dateAdded": "2020-04-20"
-    },
-    "cz6.immunity.canabis-oil.com": {
-      "reason": "Internetové stránky, na které se dostanete nejčastěji přes reklamu, slibují neznámý přípravek proti virům. Informace na stránkách jsou nedostatečné. Jako provozovatel je uvedena údajně firma z Panamy, která figuruje u mnoha jiných rizikových e-shopů, které nabízejí celou řadu dalších neznámých výrobků např. na hubnutí, proti kouření, na prostatu, na klouby, srdeční hypertenzi a další. Nákup zde za rizikový považuje také Česká obchodní inspekce.",
-      "dateAdded": "2020-04-18"
-    },
-    "prodazhatovara.com": {
-      "reason": "Internetové stránky, na které se dostanete nejčastěji přes reklamu, slibují neznámý přípravek proti chlupům na těle. Informace na stránkách jsou nedostatečné. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-04-15"
-    },
     "cz2.cardimednd.com": {
       "reason": "Internetové stránky, na které se dostanete nejčastěji přes reklamu, slibují neznámý přípravek proti srdeční hypertenzi. Lákají tlačítkem \"začněte léčbu ihned\". Informace na stránkách jsou nedostatečné. Jako provozovatel je uvedena údajně firma z Panamy, která figuruje u mnoha jiných rizikových e-shopů, které nabízejí celou řadu dalších neznámých výrobků např. na hubnutí, proti kouření, prostatě, na klouby, srdeční hypertenzi a další. Výrobky nejsou schváleny Ústavem pro kontrolu léčiv, lékaři př",
       "dateAdded": "2020-04-14"
-    },
-    "boxerkyprotebe.cz": {
-      "reason": "Opuštěnou doménu koupil neznámý subjekt. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2020-04-12"
-    },
-    "lunzo.cz": {
-      "reason": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou p",
-      "dateAdded": "2020-03-25"
     },
     "centrum-cesta.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
@@ -5656,10 +5533,6 @@
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2020-01-30"
     },
-    "luckydevil.xyz": {
-      "reason": "Stránky po rozkliknutí neukáží nic, ale při kliknutí na konkrétní reklamu se ukáže nabídka společnosti O2, která informuje o údajné výhře. Print screen této nabídky má Česká obchodní inspekce k dispozici. Stránky vytvářejí dojem výhry, aby tam spotřebitel vyplnil formulář, kde zadá informace o sobě, především jméno, telefonní číslo a e-mail. Jako provozovatel webu je uvedena společnost O2, které nemá se stránkami nic společného. Stránky jsou tedy zcela anonymní a spotřebitel neví, vůči komu může",
-      "dateAdded": "2020-01-09"
-    },
     "adnet99.com": {
       "reason": "Internetové stránky, na které se dostanete nejčastěji přes reklamu, slibují neznámý přípravek proti papalomaviru. Informace na stránkách jsou nedostatečné. Jako provozovatel je uvedena údajně firma z Panamy, která figuruje u mnoha jiných rizikových e-shopů, které nabízejí celou řadu dalších neznámých výrobků např. na hubnutí, proti kouření, prostatě, na klouby, srdeční hypertenzi a další. Výrobky nejsou schváleny Ústavem pro kontrolu léčiv, lékaři před těmito neznámými přípravky varují. Nákup zd",
       "dateAdded": "2020-01-02"
@@ -5672,25 +5545,9 @@
       "reason": "Spotřebitelka uvedla, že jí nebyly dodány objednané knihy a obchod nekomunikuje. Na internetových stránkách nejsou zveřejněny identifikační údaje prodávajícího, je zde uvedena pouze e-mailová adresa, telefonní číslo „Pražského depozitáře“ a adresa náměstí Míru 47, 763 16  Fryšták, na kterém se nachází úplně jiný provozovatel - prodejna potravin (večerka). Vyhledáním v registru internetových domén cz.nic nebylo možné identifikovat vlastníka této domény. Spotřebitel neví, s kým uzavírá kupní smlou",
       "dateAdded": "2019-12-05"
     },
-    "cz.prostero-official.eu": {
-      "reason": "Internetové stránky, na které se dostanete nejčastěji přes reklamu či spam, slibují neznámý přípravek na zánět prostaty. Nabízené výrobky, které mají sloužit k léčení zánětů prostaty, nejsou schváleny Ústavem pro kontrolu léčiv, lékaři před těmito neznámými přípravky varují. Obchodní podmínky zde jsou nedostatečné, provozovatel stránek je anonymní.",
-      "dateAdded": "2019-12-03"
-    },
-    "unique-modules.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2019-12-01"
-    },
-    "time-for-investment.com": {
-      "reason": "Na stránkách je uvedeno jméno profesora Graham Le Roux z Harvardu. Profesor Graham Le Roux neexistuje, jeho příběh je podvod, který zneužívá kryptoměny a periodicky obměňuje jejich nabídku. Graham Le Roux se vás bude snažit přesvědčit mimo jiné pomocí falešných recenzí a zkušeností svých neexistujících klientů, pozná se to podle fotek z fotobanky. Pokud si od něj startovací balíček objednáte, přijde vám poštou na dobírku balík s bezcennými papíry, vlastníky žádné skutečné kryptoměny se nestanete",
-      "dateAdded": "2019-11-28"
-    },
     "muama-enence.net": {
       "reason": "Spotřebitelé jsou v reklamě odkazovány na tyto stránky vypadající téměř jako seriozní zpravodajský web. Na stránkách je pak informace o univerzálním překladači, ačkoli o jeho vlastnostech lze pochybovat. (Na žádném českém a ani světovém trhu se totiž nenachází podobný přístroj, který by dokázal univerzálně překládat.) Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těc",
       "dateAdded": "2019-11-15"
-    },
-    "snaponsmile.com": {
-      "reason": "Na stránky jsou lidé odkazováni ve spamech, které se šíří elektronickou poštou. Po kliknutí dle spotřebitelských informací chodí více nevyžádaných nabídek. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, vůči komu může nárokovat svá práva. Jediným kontaktem je zmíněný formulář pro vyplnění. Před vyplněním formuláře se svými osobnímu údaji na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2019-10-23"
     },
     "lingfluent.com": {
       "reason": "Z webových stránek není zřejmé, kdo je provozovatelem e-shopu, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Obchodní podmínky zcela chybí. Česká obchodní inspekce nákup zde považuje za rizikový.",
@@ -5711,14 +5568,6 @@
     "tempotime.cz": {
       "reason": "Z webových stránek není zřejmé, kdo je provozovatelem e-shopu, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Obchodní podmínky zcela chybí. Česká obchodní inspekce nákup zde považuje za rizikový.",
       "dateAdded": "2019-06-21"
-    },
-    "official-fungonis.com": {
-      "reason": "Státní ústav pro kontrolu léčiv varuje před nákupem produktů z těchto webových stránek. Na stránkách je nabízen nelegálně například přípravek Fungonis, viz: http://www.sukl.cz/leciva/webove-stranky-s-nelegalnimi-nabidkami-leciv a Česká obchodní inspekce na základě informací Státního ústavu pro kontrolu léčiv před těmito stránkami varuje.",
-      "dateAdded": "2019-05-20"
-    },
-    "fastphrases.cz": {
-      "reason": "Stránky nabízejí neznámý výrobek k tomu, aby se spotřebitel naučil za 30 dní cizí řeč. Výrobek je zcela neznámý. Ze stránek není nikde zřejmé, kdo je provozovatelem, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Před opuštěním stránky se místo uzavření prohlížeče objeví další nabídka a spotřebitel je přesvědčován k nákupu opakovaně. Česká obchodní inspekce před těmito stránkami spotřebitele varuje.",
-      "dateAdded": "2019-05-06"
     },
     "yourmarket24.com": {
       "reason": "Z webových stránek není zřejmé, kdo je provozovatelem e-shopu, tedy s kým spotřebitel uzavírá smlouvu a vůči komu může nárokovat svá práva. Obchodní podmínky jsou zcela nedostatečné. Na stránkách je pak nabízen pochybný výrobek na zlepšení sluchu. Prof. Jaromir Kosinský (odborník pro molekulární biologii), který výrobek prezentuje, neexistuje. Tento domnělý vědec nemá záznam v žádné seriózní instituci: na univerzitě, v nemocnici, ve specializovaném ústavu apod. Lékaři před tímto výrobkem spotřeb",
@@ -5743,10 +5592,6 @@
     "hokejovedresy.com": {
       "reason": "Jedná se o internetový obchod v českém jazyce, ačkoli platba je možná pouze v cizí měně. Stránky anonymní, tedy bez identifikace prodávajícího, s nedostatečnými obchodními podmínkami v podobě nepovedeného strojového překladu do českého jazyka. Nákup zde hodnotí ČOI jako rizikový.",
       "dateAdded": "2017-12-11"
-    },
-    "zavlahy-cz.com": {
-      "reason": "Na základě podnětu spotřebitele Česká obchodní inspekce prověřila internetové stránky a zjistila, že na nich nejsou uvedeny žádné údaje, prostřednictvím kterých by bylo možné identifikovat prodávajícího. Nepodařilo se ani identifikovat subjekt, na který je tato doména registrována. Obchodní podmínky, stejně jako povinně uváděné náležitosti týkající se identifikace subjektu, také chybí.",
-      "dateAdded": "2017-06-16"
     }
   }
 }
