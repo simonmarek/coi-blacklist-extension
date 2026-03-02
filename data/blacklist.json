@@ -1,11 +1,14 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-01T06:22:26.500Z",
+    "lastUpdated": "2026-03-02T06:28:12.869Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1133
+    "count": 1086
   },
   "domains": [
+    "liagautier.cz",
+    "palivove-pelety.com",
+    "mixmoa.com",
     "sensefit.shop",
     "essenzaluxcz.com",
     "cz.smartservemall.com",
@@ -869,69 +872,19 @@
     "lidbeat.space",
     "shopoonline4.com",
     "archive.ulaanbaatar.mn",
-    "prelblog.com",
-    "mled.space",
-    "goldendood.shop",
-    "veryuseful.ml",
     "medgroup.club",
-    "danskocz.cz",
-    "pod-cenou.cz",
     "doktoratonline.cz",
-    "stayingsafe.cz",
-    "pumacz.cz",
-    "vsetop.cz",
-    "lottovyprodej.cz",
-    "flaro.cz",
-    "wallvision.cz",
-    "hellyhanseneshop.cz",
     "cz.gigantv.com",
-    "cz6.parazr.com",
-    "nobullobuv.cz",
-    "paradisehost.cz",
-    "kubishop.cz",
-    "groundiescz.com",
-    "procarsshopcz1.com",
     "100-solarni-lampa-cz.com",
-    "vagabondeshop.cz",
-    "zenkys.cz",
     "cz1.hondrostrc.com",
-    "vibramfive-fingers.cz",
-    "pfjhy.shop",
     "rueporter.com",
-    "mycpagetti2.com",
-    "cz1.suganp.com",
     "tovar-promo.com",
-    "medi-marketz.biz",
-    "sananga.cz",
     "altrarunnerscz.com",
     "buyandorder.com",
-    "dcshoescz.com",
-    "polstarnakrk-cz.com",
-    "obchodnicek.cz",
-    "maxivyprodeje.cz",
-    "maldero.com",
-    "lesni-valecek.myshopify.com",
-    "cistyodtok-cz.com",
     "obchodicek.cz",
-    "newherbalremedy.com",
-    "zdraveprsty-na-nohou-cz.com",
-    "pulsnioxymetrcz.com",
-    "kamagra-1stcz.com",
-    "uyjiy.shop",
-    "jimisia.ru",
     "kodykuponu.com",
     "damecbd.eu",
-    "solnadymka-cz.com",
-    "cz.cannapt.com",
-    "promoshopmedia.com",
-    "lunzo.sk",
-    "ceskarna.net",
-    "vibramboty.com",
-    "columbiacz.com",
     "abshuzhi.com",
-    "meek.cz",
-    "fashion-mode.cz",
-    "coffeeboy.cz",
     "aiglevyprodej.cz",
     "cz.indoorsuper.com",
     "zasilkonos.cz",
@@ -1141,6 +1094,18 @@
     "hokejovedresy.com"
   ],
   "details": {
+    "liagautier.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-02"
+    },
+    "palivove-pelety.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-27"
+    },
+    "mixmoa.com": {
+      "reason": "Internetový obchod sice kontaktní údaj uvádí, nicméně uvedený údaj se nepodařilo ověřit v dostupných rejstřících tuzemských podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-02-26"
+    },
     "sensefit.shop": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-02-24"
@@ -4593,141 +4558,33 @@
       "reason": "Stránka předstírá doručovací společnost DHL a informuje (formou e-mailu) o nutnosti platit za zásilku zaslanou přes DHL, ačkoli nejde o žádnou skutečnou zásilku, ale o podvrh: https://www.coi.gov.cz/ulaanbaatar/  + https://www.coi.gov.cz/ulaanbaatar2/",
       "dateAdded": "2022-07-23"
     },
-    "prelblog.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-07-21"
-    },
-    "mled.space": {
-      "reason": "Stránka s nabídkou neznámého výrobku se správně zobrazí jen těm, kteří kliknou na reklamu, která se šíří zpravidla jako spam, či na Facebooku. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-07-19"
-    },
-    "goldendood.shop": {
-      "reason": "Na stránky odkazuje reklama na Facebooku, která zneužívá jméno známého českého lékaře Jana Pirka, který se od tohoto webu distancuje. Stránky jsou anonymní a nabízejí pod smyšleným převratným vynálezem českého lékaře neznámý přípravek, viz https://www.coi.gov.cz/fb-pirk/",
-      "dateAdded": "2022-07-18"
-    },
-    "veryuseful.ml": {
-      "reason": "Na stránky odkazuje reklama na Facebooku, která zneužívá jméno známého českého lékaře Jana Pirka, který se od tohoto webu distancuje. Stránky jsou anonymní a nabízejí pod smyšleným převratným vynálezem českého lékaře neznámý přípravek, viz https://www.coi.gov.cz/pirk/",
-      "dateAdded": "2022-07-17"
-    },
     "medgroup.club": {
       "reason": "Stránka zneužívá jméno známého českého lékaře Jana Pirka, který se od tohoto webu distancuje. Stránky jsou anonymní a nabízejí pod smyšleným převratným vynálezem českého lékaře neznámý přípravek, viz https://www.coi.gov.cz/medgroup-club/",
       "dateAdded": "2022-07-16"
-    },
-    "danskocz.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-07-11"
-    },
-    "pod-cenou.cz": {
-      "reason": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslá",
-      "dateAdded": "2022-07-10"
     },
     "doktoratonline.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-07-08"
     },
-    "stayingsafe.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-07-05"
-    },
-    "pumacz.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-07-04"
-    },
-    "vsetop.cz": {
-      "reason": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslá",
-      "dateAdded": "2022-07-01"
-    },
-    "lottovyprodej.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-06-30"
-    },
-    "flaro.cz": {
-      "reason": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslá",
-      "dateAdded": "2022-06-29"
-    },
-    "wallvision.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-06-26"
-    },
-    "hellyhanseneshop.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-06-20"
-    },
     "cz.gigantv.com": {
       "reason": "Internetové stránky, na které se dostanete nejčastěji na základě spamů v elektronické poště, slibují neznámý přípravek. Obchodní podmínky chybí. Další informace na stránkách jsou zcela nedostatečné. Jako provozovatel je uvedena údajná firma z Panamy, která figuruje u celé řady dalších rizikových webů. Na stránkách odbíhá odpočítávání času, aby spotřebitel byl tlačen k rozhodnutí a neměl čas o nákupu přemýšlet. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-05-07"
-    },
-    "cz6.parazr.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-04-30"
-    },
-    "nobullobuv.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-04-07"
-    },
-    "paradisehost.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-04-06"
-    },
-    "kubishop.cz": {
-      "reason": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnos",
-      "dateAdded": "2022-04-04"
-    },
-    "groundiescz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-04-02"
-    },
-    "procarsshopcz1.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-03-30"
     },
     "100-solarni-lampa-cz.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-03-29"
     },
-    "vagabondeshop.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-03-25"
-    },
-    "zenkys.cz": {
-      "reason": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnos",
-      "dateAdded": "2022-03-21"
-    },
     "cz1.hondrostrc.com": {
       "reason": "Internetové stránky, na které se dostanete nejčastěji na základě spamů v elektronické poště, nabízejí téměř zázračný výrobek na klouby. Obchodní podmínky v češtině zcela chybí, další informace na stránkách jsou nedostatečné. Jako provozovatel je uvedena údajně firma, která figuruje u mnoha jiných rizikových e-shopů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-03-18"
-    },
-    "vibramfive-fingers.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-03-15"
-    },
-    "pfjhy.shop": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-03-03"
     },
     "rueporter.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-02-28"
     },
-    "mycpagetti2.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-26"
-    },
-    "cz1.suganp.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-25"
-    },
     "tovar-promo.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-02-24"
-    },
-    "medi-marketz.biz": {
-      "reason": "Stránky údajné lékárny s volným prodejem přípravků a léků, některé jsou výhradně na lékařský předpis. Stránky jsou anonymní. Provozovatel webu nesplňuje zákonné podmínky pro provoz lékárny. Před nákupem na těchto stránkách varuje Česká obchodní inspekce.",
-      "dateAdded": "2022-02-23"
-    },
-    "sananga.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-19"
     },
     "altrarunnerscz.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
@@ -4737,61 +4594,9 @@
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-02-17"
     },
-    "dcshoescz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-16"
-    },
-    "polstarnakrk-cz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-11"
-    },
-    "obchodnicek.cz": {
-      "reason": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnos",
-      "dateAdded": "2022-02-08"
-    },
-    "maxivyprodeje.cz": {
-      "reason": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou p",
-      "dateAdded": "2022-02-07"
-    },
-    "maldero.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-06"
-    },
-    "lesni-valecek.myshopify.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-05"
-    },
-    "cistyodtok-cz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-02-03"
-    },
     "obchodicek.cz": {
       "reason": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou p",
       "dateAdded": "2022-02-02"
-    },
-    "newherbalremedy.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-30"
-    },
-    "zdraveprsty-na-nohou-cz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-29"
-    },
-    "pulsnioxymetrcz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-28"
-    },
-    "kamagra-1stcz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-22"
-    },
-    "uyjiy.shop": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-21"
-    },
-    "jimisia.ru": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-20"
     },
     "kodykuponu.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
@@ -4801,49 +4606,9 @@
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2022-01-16"
     },
-    "solnadymka-cz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-14"
-    },
-    "cz.cannapt.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-13"
-    },
-    "promoshopmedia.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-12"
-    },
-    "lunzo.sk": {
-      "reason": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou p",
-      "dateAdded": "2022-01-11"
-    },
-    "ceskarna.net": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-10"
-    },
-    "vibramboty.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-09"
-    },
-    "columbiacz.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2022-01-07"
-    },
     "abshuzhi.com": {
       "reason": "Stránka se otevře správně jen těm, kteří přijdou z reklamy na Facebooku (https://www.coi.gov.cz/shduolian-fb/) a následně se zobrazí lživý obsah o tom, že Ivo Lukačovič investuje 100 milionů Kč do zahraniční firmy (https://www.coi.gov.cz/abshuzhi/). Tato zpráva se nezakládá na pravdě. Na stránce jsou pak údaje o tom, komu a kam poslat peníze, respektive částku v kryptoměně Bitcoin, aby člověk také rychle zbohatl. Uvedená stránka navíc zneužívá loga českých televizních společností, aby vypadala d",
       "dateAdded": "2022-01-06"
-    },
-    "meek.cz": {
-      "reason": "Česká obchodní inspekce registruje vysoký počet stížností, které se provozovatele internetových stránek týkají. Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „virtuální galerii“, jejímž prostřednictvím údajně zboží nabízejí externí subjekty. Obvykle se má jednat o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou p",
-      "dateAdded": "2022-01-04"
-    },
-    "fashion-mode.cz": {
-      "reason": "Nákupní galerie (zprostředkování ze zahraničí): Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnos",
-      "dateAdded": "2022-01-01"
-    },
-    "coffeeboy.cz": {
-      "reason": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslá",
-      "dateAdded": "2021-12-31"
     },
     "aiglevyprodej.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
