@@ -1,11 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-08T06:20:48.564Z",
+    "lastUpdated": "2026-03-09T06:31:04.445Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1086
+    "count": 1092
   },
   "domains": [
+    "kobiecamoda.shop",
+    "giciedd.monster",
+    "glik.cz",
+    "spinix.cz",
+    "biziboiz.com",
+    "oliviaro.com",
     "liagautier.cz",
     "palivove-pelety.com",
     "mixmoa.com",
@@ -1094,6 +1100,30 @@
     "hokejovedresy.com"
   ],
   "details": {
+    "kobiecamoda.shop": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-09"
+    },
+    "giciedd.monster": {
+      "reason": "Internetový obchod sice kontaktní údaj uvádí, nicméně uvedený údaj se nepodařilo ověřit v dostupných rejstřících tuzemských podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-09"
+    },
+    "glik.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-05"
+    },
+    "spinix.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-04"
+    },
+    "biziboiz.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-04"
+    },
+    "oliviaro.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-03"
+    },
     "liagautier.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-03-02"
