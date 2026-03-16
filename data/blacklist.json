@@ -1,11 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-15T06:29:03.638Z",
+    "lastUpdated": "2026-03-16T06:42:01.523Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1092
+    "count": 1070
   },
   "domains": [
+    "nelinkaresell.com",
+    "tvuj.klid.org",
+    "sennery.com",
+    "orva-paris.com",
+    "zareefashion.com",
+    "eva-cz.co",
     "kobiecamoda.shop",
     "giciedd.monster",
     "glik.cz",
@@ -684,38 +690,10 @@
     "bundycz.cz",
     "techdigital.live",
     "bluejadefinds.com",
-    "flioer.com",
-    "fccanheng.com",
-    "valueffect.com",
-    "bikeblitz.eu",
-    "zelenaazluta.shop",
     "cyun.sanni.store",
-    "solarenergy-eu.com",
-    "supremeczshop.com",
-    "baluett.com",
-    "keyine.shop",
     "hranatost.cz",
-    "dbnytr.store",
-    "gijdasinvesting.pro",
-    "monsterwine.cz",
     "cz.thetrackkey.com",
-    "elegantni.shop",
-    "vidnamet-invest.pro",
-    "coolveci.cz",
-    "bereta.shop",
-    "meiluea.com",
-    "uerds.shop",
-    "grtwji.store",
-    "cez-group.digital",
-    "qsauner.com",
     "ariat.cz",
-    "raphacz.cz",
-    "stellamccartneycz.cz",
-    "kiplingkabelka.cz",
-    "geox-czeshop.cz",
-    "boandtee.cz",
-    "pglingua.org",
-    "lowa-obchod.cz",
     "ashcz.cz",
     "rtiglassesshop.com",
     "elaniea.shop",
@@ -1100,6 +1078,30 @@
     "hokejovedresy.com"
   ],
   "details": {
+    "nelinkaresell.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-16"
+    },
+    "tvuj.klid.org": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-16"
+    },
+    "sennery.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-12"
+    },
+    "orva-paris.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-11"
+    },
+    "zareefashion.com": {
+      "reason": "Internetový obchod sice kontaktní údaj uvádí, nicméně kontaktní údaj je v přímém rozporu s dalšími informacemi, uvedenými na stránkách e-shopu. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-11"
+    },
+    "eva-cz.co": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-10"
+    },
     "kobiecamoda.shop": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-03-09"
@@ -3812,133 +3814,21 @@
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2023-12-11"
     },
-    "flioer.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-12-10"
-    },
-    "fccanheng.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-12-09"
-    },
-    "valueffect.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-12-07"
-    },
-    "bikeblitz.eu": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-12-06"
-    },
-    "zelenaazluta.shop": {
-      "reason": "E-shop nezveřejňuje obchodní podmínky, případně obsah obchodních podmínek hrubě odporuje právním předpisům. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-12-05"
-    },
     "cyun.sanni.store": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2023-12-04"
-    },
-    "solarenergy-eu.com": {
-      "reason": "Internetový obchod je provozován subjektem se sídlem mimo členské státy Evropské unie, ačkoliv internetový obchod může u spotřebitelů vzbuzovat dojem, že je provozován subjektem se sídlem v České republice nebo Evropské unii. Spotřebitelé nemohou uplatňovat svá práva, nebo je tato možnost významně ztížena. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-12-02"
-    },
-    "supremeczshop.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-12-01"
-    },
-    "baluett.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-29"
-    },
-    "keyine.shop": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-28"
     },
     "hranatost.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2023-11-27"
     },
-    "dbnytr.store": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-26"
-    },
-    "gijdasinvesting.pro": {
-      "reason": "Web zneužívá logo a design portálu Novinky.cz a snaží se vytvořit dojem, že přináší úžasnou zprávu o zázračném zbohatnutí. Celý systém na základě lživých informací žádá následně velmi citlivá data. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, vůči komu může nárokovat svá práva. Před vyplněním citlivých údajů na těchto stránkách varuje společnost Seznam.cz a Česká obchodní inspekce.",
-      "dateAdded": "2023-11-25"
-    },
-    "monsterwine.cz": {
-      "reason": "Na webových stránkách není uvedena adresa provozovatele, kam je možné zaslat zboží a odstoupení od smlouvy nebo uplatnění reklamace. Doručovací adresa odkazuje na obchodní společnost MONSTERWINE s.r.o., která však nemá s provozem těchto webových stránek žádnou spojitost. Její údaje byly na tomto webu zneužity. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-24"
-    },
     "cz.thetrackkey.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2023-11-23"
     },
-    "elegantni.shop": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-22"
-    },
-    "vidnamet-invest.pro": {
-      "reason": "Web zneužívá logo a design portálu Novinky.cz a snaží se vytvořit dojem, že přináší úžasnou zprávu o zázračném zbohatnutí. Celý systém na základě lživých informací žádá následně velmi citlivá data. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, vůči komu může nárokovat svá práva. Před vyplněním citlivých údajů na těchto stránkách varuje společnost Seznam.cz a Česká obchodní inspekce.",
-      "dateAdded": "2023-11-21"
-    },
-    "coolveci.cz": {
-      "reason": "Podle informací uvedených na internetových stránkách nejde o klasický e-shop, ale o „nákupní galerii“, jejímž prostřednictvím údajně zboží nabízejí externí zahraniční subjekty. Má se jednat zřejmě o společnosti se sídlem v Číně nebo v jiných asijských zemích, u nichž je pro spotřebitele obtížné ověřit jejich existenci a důvěryhodnost. ČOI registruje stížnosti na dodání zboží s velkou časovou prodlevou, případně nedodání zboží vůbec. Je-li dostupnost označena např. výrazem „skladem ihned k odeslá",
-      "dateAdded": "2023-11-20"
-    },
-    "bereta.shop": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-19"
-    },
-    "meiluea.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-18"
-    },
-    "uerds.shop": {
-      "reason": "Web nezveřejňuje obchodní podmínky, případně obsah obchodních podmínek hrubě odporuje právním předpisům. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-17"
-    },
-    "grtwji.store": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-16"
-    },
-    "cez-group.digital": {
-      "reason": "Web zneužívá logo a design portálu Novinky.cz a snaží se vytvořit dojem, že přináší úžasnou zprávu o zázračném zbohatnutí. Celý systém na základě lživých informací žádá následně velmi citlivá data. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, vůči komu může nárokovat svá práva. Před vyplněním citlivých údajů na těchto stránkách varuje společnost Seznam.cz a Česká obchodní inspekce.",
-      "dateAdded": "2023-11-15"
-    },
-    "qsauner.com": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-14"
-    },
     "ariat.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2023-11-11"
-    },
-    "raphacz.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-10"
-    },
-    "stellamccartneycz.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-09"
-    },
-    "kiplingkabelka.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-08"
-    },
-    "geox-czeshop.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-07"
-    },
-    "boandtee.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-06"
-    },
-    "pglingua.org": {
-      "reason": "Web zneužívá logo a design portálu Novinky.cz a snaží se vytvořit dojem, že přináší úžasnou zprávu o zázračném zbohatnutí. Celý systém na základě lživých informací žádá následně velmi citlivá data. Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, vůči komu může nárokovat svá práva. Před vyplněním citlivých údajů na těchto stránkách varuje společnost Seznam.cz a Česká obchodní inspekce.",
-      "dateAdded": "2023-11-05"
-    },
-    "lowa-obchod.cz": {
-      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
-      "dateAdded": "2023-11-04"
     },
     "ashcz.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
