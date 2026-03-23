@@ -1,11 +1,17 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-22T06:25:10.258Z",
+    "lastUpdated": "2026-03-23T06:36:44.962Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1070
+    "count": 1076
   },
   "domains": [
+    "annafieldcz.cz",
+    "humanbynature.co",
+    "novakova-atelier.com",
+    "upartitionu.lol",
+    "futurematrix.top",
+    "radkapraha.com",
     "nelinkaresell.com",
     "tvuj.klid.org",
     "sennery.com",
@@ -1078,6 +1084,30 @@
     "hokejovedresy.com"
   ],
   "details": {
+    "annafieldcz.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-21"
+    },
+    "humanbynature.co": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-20"
+    },
+    "novakova-atelier.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-20"
+    },
+    "upartitionu.lol": {
+      "reason": "Internetový obchod sice kontaktní údaj uvádí, nicméně uvedený údaj se nepodařilo ověřit v dostupných rejstřících tuzemských podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-19"
+    },
+    "futurematrix.top": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-18"
+    },
+    "radkapraha.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-17"
+    },
     "nelinkaresell.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-03-16"
