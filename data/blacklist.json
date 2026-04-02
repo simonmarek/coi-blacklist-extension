@@ -1,11 +1,23 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-01T06:44:41.074Z",
+    "lastUpdated": "2026-04-02T06:36:23.753Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1076
+    "count": 1088
   },
   "domains": [
+    "gorillarum.com",
+    "adelacoren.cz",
+    "aikeyun.shop",
+    "kralovapraha.cz",
+    "ralphlaurens.cz",
+    "leathermaneu-tool.com",
+    "simek-praha.com",
+    "luckbg.com",
+    "lnceglae.monster",
+    "kalinapraha.cz",
+    "neloraa.com",
+    "victorsecondhandmarket.com",
     "annafieldcz.cz",
     "humanbynature.co",
     "novakova-atelier.com",
@@ -1084,6 +1096,54 @@
     "hokejovedresy.com"
   ],
   "details": {
+    "gorillarum.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-02"
+    },
+    "adelacoren.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-02"
+    },
+    "aikeyun.shop": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-01"
+    },
+    "kralovapraha.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-01"
+    },
+    "ralphlaurens.cz": {
+      "reason": "Internetový obchod sice kontaktní údaj uvádí, nicméně uvedený údaj se nepodařilo ověřit v dostupných rejstřících tuzemských podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-01"
+    },
+    "leathermaneu-tool.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-01"
+    },
+    "simek-praha.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-31"
+    },
+    "luckbg.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-27"
+    },
+    "lnceglae.monster": {
+      "reason": "Internetový obchod sice kontaktní údaj uvádí, nicméně uvedený údaj se nepodařilo ověřit v dostupných rejstřících tuzemských podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-27"
+    },
+    "kalinapraha.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-25"
+    },
+    "neloraa.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-24"
+    },
+    "victorsecondhandmarket.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-03-24"
+    },
     "annafieldcz.cz": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-03-21"
