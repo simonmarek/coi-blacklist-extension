@@ -1,11 +1,20 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-09T06:42:25.150Z",
+    "lastUpdated": "2026-04-10T06:47:09.709Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1088
+    "count": 1097
   },
   "domains": [
+    "sperkyvalentova.com",
+    "altra-online-com.myshoplaza.com",
+    "pelety-brikety.eu",
+    "garmins.cz",
+    "slancks.com",
+    "matchuji.cz",
+    "fcshoppingmall.shop",
+    "mujbajer.cz",
+    "satinlodge.com",
     "gorillarum.com",
     "adelacoren.cz",
     "aikeyun.shop",
@@ -1096,6 +1105,42 @@
     "hokejovedresy.com"
   ],
   "details": {
+    "sperkyvalentova.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-10"
+    },
+    "altra-online-com.myshoplaza.com": {
+      "reason": "Internetový obchod sice v obchodních podmínkách kontaktní údaje uvádí, nicméně jedná se o zneužité kontaktní údaje prodejce www.altrarunning.eu. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-10"
+    },
+    "pelety-brikety.eu": {
+      "reason": "Internetový obchod sice kontaktní údaje uvádí, nicméně uvedené tuzemské sídlo subjektu se nepodařilo ověřit v dostupných rejstřících českých podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-09"
+    },
+    "garmins.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-08"
+    },
+    "slancks.com": {
+      "reason": "Internetový obchod sice kontaktní údaje uvádí, nicméně uvedené kontaktní údaje se nepodařilo ověřit v dostupných rejstřících zahraničních podnikatelských subjektů. E-shop se také potýká s vysokým počtem stížností. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-08"
+    },
+    "matchuji.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-08"
+    },
+    "fcshoppingmall.shop": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-08"
+    },
+    "mujbajer.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-07"
+    },
+    "satinlodge.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-06"
+    },
     "gorillarum.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-04-02"
