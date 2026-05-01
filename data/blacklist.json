@@ -1,15 +1,28 @@
 {
   "metadata": {
-    "lastUpdated": "2026-04-30T07:03:34.032Z",
+    "lastUpdated": "2026-05-01T07:05:28.885Z",
     "source": "ČOI",
     "sourceUrl": "https://coi.gov.cz/pro-spotrebitele/rizikove-e-shopy/",
-    "count": 1070
+    "count": 1083
   },
   "domains": [
+    "hypermarketcz.shop",
+    "bsavages.monster",
+    "magdalena-praha.cz",
+    "ekodrevo.com",
+    "autodilyexpres.com",
+    "nerrxs.shop",
+    "sneakroll.cz",
+    "boxpro-cz.com",
+    "wentcedatenv.club",
+    "muzikashop.com",
+    "vypestujto.webnode.cz",
+    "niningtra.com",
     "hover-cz.com",
     "petrjana.cz",
     "janapetr.cz",
     "czechchildren.eu",
+    "boutiquesecondhand.vip",
     "enyoig.shop",
     "lulu12.online",
     "makipro.store",
@@ -1078,6 +1091,54 @@
     "hokejovedresy.com"
   ],
   "details": {
+    "hypermarketcz.shop": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-30"
+    },
+    "bsavages.monster": {
+      "reason": "Internetový obchod sice v obchodních podmínkách kontaktní údaje uvádí, nicméně jedná se o zneužité kontaktní údaje prodejce www.fc-moto.de. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-30"
+    },
+    "magdalena-praha.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-30"
+    },
+    "ekodrevo.com": {
+      "reason": "Internetový obchod sice kontaktní údaj uvádí, nicméně kontaktní údaj je v přímém rozporu s dalšími informacemi, uvedenými na stránkách eshopu. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-30"
+    },
+    "autodilyexpres.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-30"
+    },
+    "nerrxs.shop": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-29"
+    },
+    "sneakroll.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-29"
+    },
+    "boxpro-cz.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-28"
+    },
+    "wentcedatenv.club": {
+      "reason": "Internetový obchod sice kontaktní údaje uvádí, nicméně uvedené tuzemské sídlo subjektu se nepodařilo ověřit v dostupných rejstřících českých podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-28"
+    },
+    "muzikashop.com": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-28"
+    },
+    "vypestujto.webnode.cz": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-28"
+    },
+    "niningtra.com": {
+      "reason": "Internetový obchod sice kontaktní údaje uvádí, nicméně uvedené tuzemské sídlo subjektu se nepodařilo ověřit v dostupných rejstřících českých podnikatelských subjektů. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-22"
+    },
     "hover-cz.com": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-04-21"
@@ -1093,6 +1154,10 @@
     "czechchildren.eu": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
       "dateAdded": "2026-04-20"
+    },
+    "boutiquesecondhand.vip": {
+      "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
+      "dateAdded": "2026-04-17"
     },
     "enyoig.shop": {
       "reason": "Jako provozovatel webu není uveden nikdo, stránky jsou tedy zcela anonymní a spotřebitel neví, s kým uzavírá kupní smlouvu a vůči komu může nárokovat svá práva. Před nákupem na těchto stránkách Česká obchodní inspekce varuje.",
